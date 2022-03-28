@@ -1,7 +1,7 @@
-<h1 style="text-align: center; margin-bottom: 0">
+<h1 align="center">
   <img src=".github/shift-icon.png" alt="Shift INC Logo"> Shift INC
 </h1>
-<h1 style="text-align: center">
+<h1 align="center">
   Frontend Developer Challenge
 </h1>
 
@@ -27,7 +27,7 @@ Dentro do layout temos 4 partes:
 
 4. Repositórios.
     - Aqui também avaliaremos:
-      1. Pesquisa, ordenação e filtro.
+      - Pesquisa, ordenação e filtro.
 
 **Dica/Importante**: Aqui avaliaremos cada parte de forma separada, por isto, sugerimos que seja criado 4 componentes, sendo eles: `header`, `menu`, `perfil` e `repositórios`, todos sendo importados e utilizados na mesma página.
 
