@@ -60,11 +60,17 @@ Link para a API do GitHub [aqui](https://docs.github.com/pt/rest/guides/getting-
 ## 🖌 Cores
 
 `header -> #161b22`
+
 `background -> #0d1117`
+
 `border -> #21262d`
+
 `white -> #c9d1d9`
+
 `text-muted -> #8b949e`
+
 `link -> #58a6ff`
+
 `border-active -> #F78166`
 
 ## 📋 Instruções
