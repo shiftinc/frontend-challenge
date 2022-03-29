@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/shift-icon.png" alt="Shift INC Logo"> Shift INC
+  <img src=".github/shift-icon.png" alt="SHIFT INC Logo"> SHIFT INC
 </h1>
 <h1 align="center">
   Frontend Developer Challenge
