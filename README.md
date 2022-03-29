@@ -89,13 +89,11 @@ Link para a API do GitHub [aqui](https://docs.github.com/pt/rest/guides/getting-
 
 5. A utilização de tipagens via typescript é importante e será avaliada.
 
-6. Para a parte de formulário avaliaremos a utilização de tags nativas do HTML, tanto para validação quanto para o envio do formulário.
-
-7. Preencha o arquivo de [Feeback do projeto](FEEDBACK_PROJETO.md) contando para nós o que fez, o que não fez e a sua avaliação sobre o teste.
+6. Preencha o arquivo de [Feeback do projeto](FEEDBACK_PROJETO.md) contando para nós o que fez, o que não fez e a sua avaliação sobre o teste.
 
 ## 😉 Não conseguiu finalizar o teste?
 
-Não tem problemas, envie mesmo assim, nós vamos avaliar o teste mesmo que não esteja finalizado dando prioridade aos seguintes pontos:
+Não tem problema, envie mesmo assim, nós vamos avaliar o teste mesmo que não esteja finalizado dando prioridade aos seguintes pontos:
 
 - Como o projeto ficou estruturalmente e se foi utilizado boas práticas.
 
